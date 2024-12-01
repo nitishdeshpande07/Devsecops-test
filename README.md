@@ -13,7 +13,7 @@ for the updated code with Docker configuration.
 
 - Prior Node.js development experience.
 - Familiarity with the Linux command-line.
-- Access to a Linux machine with
+- Access to a Linux machine with jkffjfjjhjhvjhv 
   [Docker Engine](https://docs.docker.com/engine/install/) installed.
 
 ## Getting started
